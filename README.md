@@ -20,15 +20,15 @@ Javascript
 
 
 ## OUR TEAM
-ANURAG RANJAN
+[ANURAG RANJAN](https://github.com/AnuragRanjan2003)
 
-AYUSH MISHRA
+[AYUSH MISHRA](https://github.com/mAyush45)
 
-AYUSH KANDPAL
+[AYUSH KANDPAL](https://github.com/ayush290104)
 
-K. LAVANYA LAHARI
+[K. LAVANYA LAHARI]
 
-KAUSHAN DEY
+[KAUSHAN DEY](https://github.com/KaushanDey)
 
 DEBJEET BOSE
 
