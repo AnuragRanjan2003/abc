@@ -26,7 +26,7 @@ Javascript
 
 [AYUSH KANDPAL](https://github.com/ayush290104)
 
-[K. LAVANYA LAHARI]
+[K. LAVANYA LAHARI]()
 
 [KAUSHAN DEY](https://github.com/KaushanDey)
 
